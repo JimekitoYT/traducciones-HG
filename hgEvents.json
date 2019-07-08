@@ -41,17 +41,17 @@
       "victim": { "count": "1", "outcome": "nothing" }
     },
     {
-      "message": "{attacker} finds a gun with one bullet, and kills {victim} with it!",
+      "message": "{attacker} encuentra un arma con una bala, y mata a {victim} con ella!",
       "attacker": { "count": "1", "outcome": "nothing", "killer": true },
       "victim": { "count": "1", "outcome": "dies" }
     },
     {
-      "message": "{attacker} finds a gun with one bullet, but misses {victim} with it!",
+      "message": "{attacker} encuentra un arma con una bala, pero falla el disparo a {victim} con ella!",
       "attacker": { "count": "1", "outcome": "nothing" },
       "victim": { "count": "1", "outcome": "nothing" }
     },
     {
-      "message": "{attacker} finds a gun with one bullet, and {victim} both die somehow!",
+      "message": "{attacker} encuentra un arma con una bala, and {victim} los dos mueren de alguna forma!",
       "attacker": { "count": "1", "outcome": "nothing", "killer": true },
       "victim": { "count": "2", "outcome": "dies" }
     },
